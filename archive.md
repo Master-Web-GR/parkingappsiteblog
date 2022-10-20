@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Αρχείο άρθρων
 ---
 
 {% for tag in site.tags %}
